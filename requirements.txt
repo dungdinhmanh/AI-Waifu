@@ -1,0 +1,7 @@
+SpeechRecognition
+openai
+pyttsx3
+pyaudio
+elevenlabslib
+sounddevice
+soundfile
