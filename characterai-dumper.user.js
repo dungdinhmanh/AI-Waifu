@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        CharacterAI Dumper
-// @namespace   Violentmonkey Scripts
+// @namespace   Tampermonkey Scripts
 // @match       https://beta.character.ai/*
 // @grant       none
 // @version     1.4
