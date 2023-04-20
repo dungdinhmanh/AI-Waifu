@@ -1,7 +1,7 @@
 SpeechRecognition
 openai
 pyttsx3
-pyaudio
+#pyaudio
 elevenlabslib
-sounddevice
-soundfile
+#sounddevice
+#soundfile
